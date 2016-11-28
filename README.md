@@ -12,5 +12,5 @@ This repository is a summary of available Chinese NLP tools.
 
 ### Word Segmentation
 
-- [NLPIR ººÓï·Ö´ÊÏµÍ³](http://ictclas.nlpir.org/)
+- [NLPIR æ±‰è¯­åˆ†è¯ç³»ç»Ÿ](http://ictclas.nlpir.org/)
 - []()
