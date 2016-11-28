@@ -17,7 +17,7 @@ This repository is a summary of available Chinese NLP tools.
 
 ### Package Introduction
 
-- [Genism](http://radimrehurek.com/gensim/index.html)
+- [Gensim](http://radimrehurek.com/gensim/index.html)
 - [Sklearn](http://scikit-learn.org/stable/modules/linear_model.html)
 - [jieba 汉语分词](https://github.com/fxsjy/jieba/)
 
