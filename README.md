@@ -13,4 +13,13 @@ This repository is a summary of available Chinese NLP tools.
 ### Word Segmentation
 
 - [NLPIR 汉语分词系统](http://ictclas.nlpir.org/)
-- []()
+- [jieba 汉语分词](https://github.com/fxsjy/jieba/)
+
+### Package Introduction
+
+- [Genism](http://radimrehurek.com/gensim/index.html)
+- [Sklearn](http://scikit-learn.org/stable/modules/linear_model.html)
+- [jieba 汉语分词](https://github.com/fxsjy/jieba/)
+
+
+
